@@ -143,6 +143,7 @@ This can also be a dedicated section of your README.md files.
 
 ## Tools
 
+- [markdown-tools-online-resources](https://github.com/nagudharan/markdown-tools-online-resources) - Free Markdown templates, examples, and workflows for PDF, DOCX, HTML, slides, tables, and AI output.
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [Common Readme](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
 - [Github Licenses Stats](https://github.com/lheintzmann1/github-licenses-stats#readme) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
